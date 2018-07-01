@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Asmanipun</string>
+    <string name="go_to">Go To </string>
+    <string name="name">Nama </string>
+    <string name="npm">NPM </string>
+    <string name="gender">Gender </string>
+    <string name="deskripsi">Deskripsi </string>
+    <string name="hideskripsi">Ceritakan lebih banyak tentang dirimu</string>
+    <string name="address">Address </string>
+    <string name="email">Email </string>
+    <string name="fillname">Bonar </string>
+    <string name="filladdress">Bandung, Jawa Barat</string>
+    <string name="fillemail">bonar@mail.com</string>
+    <string name="edsatu">Edit Text Ni</string>
+    <string name="eddua">Iya Edit Text</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnProses">Proses</string>
+    <string name="btnRegis">Registrasi</string>
+
+    <string-array name="gender_spin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+</resources>
