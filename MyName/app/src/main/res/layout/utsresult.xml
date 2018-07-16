@@ -1,38 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
-    android:orientation="vertical"
-    android:padding="16dp"
-    android:layout_margin="5dp"
-    android:gravity="clip_vertical"
-    android:layout_height="match_parent">
+    style="@style/Lilisya">
 
     <TextView
         android:id="@+id/nama"
         android:text="@string/name"
-        android:textSize="28dp"
+        android:textSize="@dimen/font_large"
         android:textColor="@color/colorPrimary"
         android:textStyle="bold"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        style="@style/Label" />
     <TextView
         android:id="@+id/npm"
-        android:textSize="22dp"
+        android:textSize="@dimen/font_normal"
         android:text="@string/npm"
         android:textStyle="italic"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        style="@style/Label" />
     <TextView
         android:id="@+id/gender"
-        android:textSize="20dp"
+        android:textSize="@dimen/font_small"
         android:textColor="@color/colorButton"
         android:text="@string/gender"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        style="@style/Label" />
     <TextView
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="@dimen/margin_top"
         android:id="@+id/deskripsi"
-        android:textSize="18dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:textSize="@dimen/font_small"
+        style="@style/Label" />
 </LinearLayout>

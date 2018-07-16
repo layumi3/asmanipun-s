@@ -26,6 +26,7 @@
         android:entries="@array/gender_spin"
         android:autofillHints="@string/gender"
         style="@style/Input">
+
     </Spinner>
     <TextView
         android:text="@string/deskripsi"
