@@ -11,3 +11,5 @@ Layout contains:
 ![alt text](https://github.com/layumi3/asmanipun-s/blob/master/profile-input.jpeg)
 - Simple profil get from another activity
 ![alt text](https://github.com/layumi3/asmanipun-s/blob/master/profile-output.jpeg)
+- Simple recycler view from related branch
+![alt text](https://github.com/layumi3/asmanipun-s/blob/master/recycler-view.jpg)
