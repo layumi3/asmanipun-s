@@ -2,6 +2,8 @@
 Simple apps for learning task
 This apps develop with android studio 
 
+Tolong bantu berkonstribusi
+
 Layout contains:
 - Simple profil link to facebook with open browser
 ![Screenshot](asmanipun-s/screen-profil.png)
